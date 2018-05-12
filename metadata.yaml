@@ -1,0 +1,30 @@
+_repo: A-Theory-of-Creation--A-Review-of-Vestiges-of-the-Natural-History-of-Creation-_24648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bowen, Francis
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '26644'
+    url: http://www.gutenberg.org/2009/agents/26644
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bowen
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Creation'
+- !lcsh 'Chambers, Robert, 1802-1871. Vestiges of the natural history of creation'
+- !lcsh 'Evolution (Biology)'
+title: 'A Theory of Creation: A Review of ''Vestiges of the Natural History of Creation'''
+url: http://www.gutenberg.org/ebooks/24648
